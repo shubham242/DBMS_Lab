@@ -5,7 +5,7 @@ int main()
 {
     ofstream file;
     srand(time(0));
-    file.open("data.csv");
+    file.open("data.txt");
     for (int i = 0; i < 100; i++)
     {
         char a = rand() % 8 + 65;

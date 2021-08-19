@@ -19,9 +19,10 @@ map<tuple<int, int, char>, int> parseData()
 {
 
     ifstream infile;
-    infile.open("data.csv");
+    infile.open("data.txt");
 
     map<tuple<int, int, char>, int> data;
+
     int regionNo, salesmanNo, quantity;
     char productId;
 

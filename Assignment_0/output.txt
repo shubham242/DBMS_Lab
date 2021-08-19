@@ -3,46 +3,47 @@
 
 Region 1
 
-Salesman 1                     Rs. 4000/-
-Salesman 2                     Rs. 18950/-
-Salesman 3                     Rs. 20100/-
-Salesman 4                     Rs. 6850/-
-Salesman 5                     Rs. 10550/-
-Salesman 6                     Rs. 9300/-
+Salesman 1                     Rs. 7150/-
+Salesman 2                     Rs. 18700/-
+Salesman 3                     Rs. 7350/-
+Salesman 4                     Rs. 9550/-
+Salesman 5                     Rs. 5900/-
+Salesman 6                     Rs. 6900/-
 
-Total Sale at Region 1         Rs. 69750/-
+Total Sale at Region 1         Rs. 55550/-
 
 
 Region 2
 
-Salesman 1                     Rs. 6500/-
-Salesman 2                     Rs. 6150/-
-Salesman 3                     Rs. 5950/-
-Salesman 4                     Rs. 17800/-
-Salesman 5                     Rs. 13000/-
-Salesman 6                     Rs. 16350/-
+Salesman 1                     Rs. 10650/-
+Salesman 2                     Rs. 13050/-
+Salesman 3                     Rs. 12050/-
+Salesman 4                     Rs. 21500/-
+Salesman 5                     Rs. 4000/-
+Salesman 6                     Rs. 20150/-
 
-Total Sale at Region 2         Rs. 65750/-
+Total Sale at Region 2         Rs. 81400/-
 
 
 Region 3
 
-Salesman 1                     Rs. 10000/-
-Salesman 2                     Rs. 10000/-
-Salesman 3                     Rs. 5050/-
-Salesman 4                     Rs. 8900/-
-Salesman 5                     Rs. 3450/-
-Salesman 6                     Rs. 18950/-
+Salesman 1                     Rs. 7100/-
+Salesman 2                     Rs. 15100/-
+Salesman 3                     Rs. 6250/-
+Salesman 4                     Rs. 23000/-
+Salesman 5                     Rs. 8500/-
+Salesman 6                     Rs. 6700/-
 
-Total Sale at Region 3         Rs. 56350/-
+Total Sale at Region 3         Rs. 66650/-
 
 
 Region 4
 
-Salesman 1                     Rs. 11200/-
-Salesman 2                     Rs. 7000/-
-Salesman 4                     Rs. 11850/-
-Salesman 5                     Rs. 3550/-
-Salesman 6                     Rs. 19400/-
+Salesman 1                     Rs. 8050/-
+Salesman 2                     Rs. 6450/-
+Salesman 3                     Rs. 3850/-
+Salesman 4                     Rs. 5000/-
+Salesman 5                     Rs. 6150/-
+Salesman 6                     Rs. 18150/-
 
-Total Sale at Region 4         Rs. 53000/-
+Total Sale at Region 4         Rs. 47650/-
